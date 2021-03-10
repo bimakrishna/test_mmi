@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "Code": "SA",
+        "nama": "System Analyst"
+    },
+    {
+        "id": 2,
+        "Code": "BPS",
+        "nama": "BPS"
+    },
+    {
+        "id": 3,
+        "Code": "PRG",
+        "nama": "Programmer"
+    },
+    {
+        "id": 4,
+        "Code": "TEST",
+        "nama": "Tester"
+    },
+    {
+        "id": 5,
+        "Code": "HELP",
+        "nama": "Helpdesk"
+    }
+]

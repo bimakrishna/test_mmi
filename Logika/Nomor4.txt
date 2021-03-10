@@ -1,0 +1,12 @@
+SELECT * FROM Transaksi
+ORDER BY HARGA_SATUAN ASC;
+
+SELECT Pelanggan.ALAMAT
+FROM Pelanggan
+WHERE Pelanggan.NAMA ‘%g%’
+
+SELECT * FROM Transaksi
+ORDER BY NAME ASC;
+
+SELECT SUM TOTAL 
+FROM Transaksi WHERE Pelanggan.NAMA;
